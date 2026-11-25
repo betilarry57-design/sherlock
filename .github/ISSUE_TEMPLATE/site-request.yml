@@ -1,7 +1,7 @@
-name: Reuest a new website
-description: Request that Sherlock add support for a new website
-title: "Requesting support for: "
-labels: ["site support request"]
+name: www otlo.com
+description: support 
+title: "support for www.otlo.com: "
+labels: ["www.otlo.com"]
 body:
   - type: markdown
     attributes:
